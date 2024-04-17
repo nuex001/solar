@@ -144,7 +144,7 @@ body {
   transform: translate(-50%, -50%);
   width: 70%;
   min-height: 500px;
-  z-index: 3;
+  z-index: 4;
   /* border: 2px solid var(--text); */
 }
 .container .textCont h1 {
